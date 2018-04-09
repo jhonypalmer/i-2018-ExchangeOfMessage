@@ -2,6 +2,8 @@
 Trabalho Prático de Integração de Aplicações 2018 - envolvendo Troca de Mensagens
 
 ## Componentes do Grupo
-### Jhony Palmer
-### Marconi Franklin
-### Lucas Nunes
+<p>
+  Jhony Palmer<br />
+  Marconi Franklin<br />
+  Lucas Nunes
+</p>
