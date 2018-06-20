@@ -4,7 +4,7 @@ Trabalho Prático de Integração de Aplicações 2018 - envolvendo Troca de Men
 ## Componentes do Grupo
 <p>
   Jhony Palmer<br />
-  Marconi Franklin<br />
+  Marconi Braga<br />
   Lucas Nunes
 </p>
 
